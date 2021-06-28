@@ -1,2 +1,2 @@
-# bridged-urls
-Bridged system services url constants &amp; builders
+# Links of grida (urls)
+Grida system services url constants & builders
