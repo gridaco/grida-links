@@ -4,7 +4,7 @@
     "description": "grida links",
     "homepage": "https://grida.co/packages/links",
     "repository": "https://github.com/gridaco/grida-links",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "MIT",
     "main": "dist/index",
     "scripts": {
