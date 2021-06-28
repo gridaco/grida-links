@@ -1,0 +1,25 @@
+{
+    "name": "@grida/link-download",
+    "private": false,
+    "description": "grida links",
+    "homepage": "https://grida.co/packages/links",
+    "repository": "https://github.com/gridaco/grida-links",
+    "version": "0.0.1",
+    "license": "MIT",
+    "main": "dist/index",
+    "scripts": {
+        "prepack": "tsc",
+        "test": "jest"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "files": [
+        "README",
+        "LICENSE",
+        "dist/index.js",
+        "dist/index.d.ts",
+        "dist/**/*.d.ts",
+        "dist/**/*.js"
+    ]
+}
