@@ -1,0 +1,10 @@
+{
+    "name": "@grida/linkus",
+    "private": false,
+    "version": "0.0.0",
+    "license": "MIT",
+    "main": "dist/index",
+    "publishConfig": {
+        "access": "public"
+    }
+}
