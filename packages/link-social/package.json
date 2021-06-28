@@ -1,5 +1,5 @@
 {
-    "name": "@grida/link-template",
+    "name": "@grida/link-social",
     "private": false,
     "description": "grida links",
     "homepage": "https://grida.co/packages/links",
@@ -21,5 +21,8 @@
         "dist/index.d.ts",
         "dist/**/*.d.ts",
         "dist/**/*.js"
-    ]
+    ],
+    "devDependencies": {
+        "typescript": "^4.3.4"
+    }
 }

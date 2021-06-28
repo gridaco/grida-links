@@ -2,7 +2,7 @@
     "name": "grida-links",
     "private": true,
     "workspaces": [
-        "packages/[!__]*"
+        "packages/*"
     ],
     "devDependencies": {
         "@types/node": "^15.12.5",
